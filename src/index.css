@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* add global styles */
+@layer base {
+    button {
+        @apply border py-2 px-3 rounded-full mt-4
+    }
+}
