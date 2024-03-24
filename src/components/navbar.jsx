@@ -17,7 +17,7 @@ const Navbar = () => {
     }
 
   return (
-    <div className='absolute w-full flex justify-between items-center p-4'>
+    <div className='w-full flex justify-between items-center p-4'>
         <h1 className='text-white font-bold text-2xl z-20'>Experiences</h1>
         <HiMenuAlt3 onClick={handle_nav} size={45} className=' text-white z-20' />
         <div className={ nav ? 'ease-in duration-1000 fixed text-gray-300 w-full h-screen left-0 top-0 bg-black/70 px-4 py-7 flex-col z-10':
