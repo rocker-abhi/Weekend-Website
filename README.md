@@ -1,6 +1,6 @@
 <h1 align="center" id="title">WEEKEND-WEBSITE</h1>
 
-<p id="description">Experience timeless elegance with our React-powered website crafted using Tailwind for a classic UI. Seamlessly blending modern technology with traditional design explore effortlessly. Timeless charm awaits.Experience timeless elegance with our React-powered website crafted using Tailwind for a classic UI. Seamlessly blending modern technology with traditional design explore effortlessly. Timeless charm awaits..</p>
+<p id="description">Experience timeless elegance with our React-powered website crafted using Tailwind for a classic UI. Seamlessly blending modern technology with traditional design explore effortlessly. Timeless charm awaits.Experience timeless elegance with our React-powered website crafted using Tailwind for a classic UI. Seamlessly blending modern technology with traditional design explore effortlessly. Timeless charm awaits...</p>
 
   
   
