@@ -15,7 +15,7 @@ Here're some of the project's best features:
 
 <h2>🛠️ Installation Steps:</h2>
 
-<p>1. Clone the project using this code .</p>
+<p>1. Clone the project using this code ..</p>
 
 ```
 git clone https://github.com/rocker-abhi/Weekend-Website.git
