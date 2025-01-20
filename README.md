@@ -49,4 +49,7 @@ Technologies used in the project:
 <h2>🧐 Screen Shot </h2>
 
 <img src="screenshot/s-1.png" alt="Screenshot" />
-<img src="Screen Shot/ss_2.png" alt="Screenshot" />
+
+<img src="screenshot/s-2.png" alt="Screenshot" />
+
+<img src="screenshot/s-3.png" alt="Screenshot" />
